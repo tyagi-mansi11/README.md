@@ -16,7 +16,8 @@
 
 
 ## 🌐 Socials:     
-[<img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />](https://linkedin.com/in/www.linkedin.com/in/tyagimansi) <br>
+<a href="https://www.linkedin.com/in/tyagimansi/" target="blank">
+<img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
    
 
 
