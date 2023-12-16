@@ -16,7 +16,8 @@
 
 
 ## 🌐 Socials:     
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tyagimansi) <br>
+[<img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />](https://linkedin.com/in/www.linkedin.com/in/tyagimansi) <br>
+   
 
 
 ## 📊 GitHub Stats:
