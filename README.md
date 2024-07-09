@@ -3,7 +3,7 @@
 
 
 👩‍💻 Pursuing B.tech in Information Technology. <br>
-🌱 I’m currently learning MS Excel, Power BI. <br>
+🌱 Currently learning MS Excel, SQL, Power BI. <br>
 🎯 Passionate about converting data into insights. <br>
 📩 Mail at tyagimansi118@gmail.com <br>  <br>
 
