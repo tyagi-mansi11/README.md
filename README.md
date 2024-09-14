@@ -1,10 +1,6 @@
-<h1 align="center"><i>Hola 👋, I'm Mansi Tyagi</i></h1>
-<img align="right" alt="Data Analyst" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e">
-
-
-👩‍💻 Pursuing B.tech in Information Technology. <br>
-🌱 Currently learning MS Excel, SQL, Power BI. <br>
-🎯 Passionate about converting data into insights. <br>
+Hi, I am Mansi Tyagi
+👩‍💻 B.tech in Information Technology <br>
+🌱 Becoming skilled at analyzing data <br>
 📩 Mail at tyagimansi118@gmail.com <br>  <br>
 
 
@@ -20,11 +16,6 @@
 <a href="https://www.linkedin.com/in/tyagimansi/" target="blank">
 <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
    
-
-
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=tyagi-mansi11&theme=synthwave&hide_border=false)<br/>  <br>
-
 
 
 ## ✍️ Quote
