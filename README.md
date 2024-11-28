@@ -5,7 +5,7 @@ I'm Mansi, and it's great to have you here. Feel free to explore my work!
 ## About Me
 👩‍💻 Graduated with B.tech in Information Technology <br>
 🌱 Becoming skilled at analyzing data <br>
-📧 Reach out to me at tyagimansi118@gmail.com  
+📧 Reach out to me at mansityagi909@gmail.com  
 
 ## Skills
 ![Excel](https://img.shields.io/badge/Excel-3D7B47?style=for-the-badge)
